@@ -1,0 +1,55 @@
+body{
+	background: #FFF8DC;
+
+}
+header{
+	text-align: center;
+	font-size: 21px;
+}
+.cont{
+	background: #ffffff;
+	min-height:500px;
+	margin: 0 auto;
+	width: 900px;
+}
+
+.square{
+
+	width: 90px;
+	height: 90px;
+	background-color: red;
+	margin: 0 auto;
+	
+
+}
+.rectangle{
+	width: 150px;
+	height: 90px;
+	background-color: pink;
+	margin: 0 auto;
+
+	
+
+}
+.oval{
+	border-radius: 70px 40px;
+	width: 90px;
+	height: 90px;
+	background-color: red;
+	border: blue;
+	background-color: orange;
+	margin: 0 auto;
+
+
+}
+.circle{
+	border-radius: 50px;
+	width: 90px;
+	height: 90px;
+	background-color: red;
+	border: blue;
+	background-color: yellow;
+	margin: 0 auto;
+	
+
+}
